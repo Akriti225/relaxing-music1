@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #a8edea, #fed6e3);
+    text-align: center;
+    padding: 20px;
+}
+
+.box {
+    max-width: 600px;
+    margin: auto;
+    background: rgb(172, 235, 114);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 24px;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+.audio-container {
+    margin: 15px 0;
+}
+
+audio {
+    width: 80%;
+    border-radius: 8px;
+    background: #f8f9fa;
+}
+
